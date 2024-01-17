@@ -11,7 +11,7 @@
 
 Here are some of the projects I've been working on:
 
-1. [Project 1](file:///C:/Users/Ludvig/Documents/DAT2/sidmallen-ludvig429-main/sidmallen-ludvig429-main/index.html): This is my banger website.
+1. [Project 1](link-to-project-1): Brief description.
 2. [Project 2](link-to-project-2): Brief description.
 3. [Project 3](link-to-project-3): Brief description.
 
