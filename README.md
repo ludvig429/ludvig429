@@ -3,9 +3,9 @@
 
 ## About Me
 
-- 🌱 I'm currently learning [What you're learning].
+- 🌱 I'm currently learning Data related stuff such as programming, web development and other stuff aswell.
 - 💼 I work at Polhemskolan in Gävle.
-- 📫 You can reach me at  or [Your Website].
+- 📫 You can reach me at ludvig.laine@skola.gavle.se.
 
 ## My Projects
 
